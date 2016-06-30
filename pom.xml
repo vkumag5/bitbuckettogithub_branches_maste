@@ -4,7 +4,7 @@
 
 		<groupId>com.pearson.qglobal.api</groupId>
 		<artifactId>qglobal-api-TST</artifactId>
-		<version>1.0.7-SNAPSHOT</version>
+		<version>1.0.8-SNAPSHOT</version>
 		<packaging>pom</packaging>
 	   <name>QGlobal API - TST</name>
 	<ciManagement>            
